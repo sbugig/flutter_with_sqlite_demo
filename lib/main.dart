@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_with_sqlite/screens/note_detail.dart';
+import 'package:flutter/material.dart'; 
 
 import 'screens/note_list.dart';
 
